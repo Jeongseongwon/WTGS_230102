@@ -21,7 +21,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: Project
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 1
 --- !u!114 &2
@@ -46,7 +46,7 @@ MonoBehaviour:
     y: 0
     width: 1920
     height: 989
-  m_MinSize: {x: 875, y: 521}
+  m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_UseTopView: 1
   m_TopViewHeight: 30
@@ -122,7 +122,7 @@ MonoBehaviour:
   m_MinSize: {x: 879, y: 471}
   m_MaxSize: {x: 16004, y: 14021}
   vertical: 0
-  controlID: 1788
+  controlID: 158
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -147,7 +147,7 @@ MonoBehaviour:
   m_MinSize: {x: 604, y: 471}
   m_MaxSize: {x: 12004, y: 14021}
   vertical: 1
-  controlID: 1794
+  controlID: 87
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -173,7 +173,7 @@ MonoBehaviour:
   m_MinSize: {x: 604, y: 221}
   m_MaxSize: {x: 12004, y: 4021}
   vertical: 0
-  controlID: 1866
+  controlID: 88
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -422,9 +422,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 54000100
-      m_LastClickedID: 65620
-      m_ExpandedIDs: c0c1ffff7ed4ffff82d4ffff3cd9ffffb4ddffffceddffffdce5ffff52fbffffa0ee000036f6000020fe000058fe0000
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -537,9 +537,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -0.015308555, y: 0.009595706, z: -0.00014688208, w: -0.99984044}
   m_Size:
-    m_Target: 482.03302
+    m_Target: 655.98035
     speed: 2
-    m_Value: 482.03302
+    m_Value: 627.73236
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -602,22 +602,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/3.Prefabs
+    - Assets
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 96
   m_LastFolders:
-  - Assets/3.Prefabs
+  - Assets
   m_LastFoldersGridSize: 96
-  m_LastProjectPath: C:\Users\allaf\1218_WTGS\WTGS_1218
+  m_LastProjectPath: C:\Users\allaf\Documents\WTGS_0102\WTGS_0102\WTGS_1218
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 69}
-    m_SelectedIDs: ca6c0000
-    m_LastClickedID: 27850
-    m_ExpandedIDs: 000000009c6a00009e6a0000a06a0000a26a0000a46a0000a66a0000a86a0000aa6a0000ac6a0000ae6a0000b06a0000b26a0000b46a000000ca9a3b
+    m_SelectedIDs: 60650000
+    m_LastClickedID: 25952
+    m_ExpandedIDs: 0000000060650000626500006465000066650000686500006a6500006c6500006e650000706500007265000074650000766500007865000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -645,7 +645,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000009c6a00009e6a0000a06a0000a26a0000a46a0000a66a0000a86a0000aa6a0000ac6a0000ae6a0000b06a0000b26a0000b46a000000ca9a3b
+    m_ExpandedIDs: 0000000060650000626500006465000066650000686500006a6500006c6500006e6500007065000072650000746500007665000078650000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
